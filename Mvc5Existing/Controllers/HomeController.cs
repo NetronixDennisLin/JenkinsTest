@@ -26,10 +26,5 @@ namespace Mvc5Existing.Controllers
 
             return View();
         }
-
-        public ActionResult Services()
-        {
-            return View();
-        }
     }
 }

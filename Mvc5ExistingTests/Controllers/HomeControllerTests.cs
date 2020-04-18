@@ -14,23 +14,17 @@ namespace Mvc5Existing.Controllers.Tests
         [TestMethod()]
         public void IndexTest()
         {
-            //撰寫單元測試程式...
+
         }
 
         [TestMethod()]
         public void AboutTest()
         {
-            //撰寫單元測試程式...
+
         }
 
         [TestMethod()]
         public void ContactTest()
-        {
-            //撰寫單元測試程式...
-        }
-
-        [TestMethod()]
-        public void ServicesTest()
         {
 
         }

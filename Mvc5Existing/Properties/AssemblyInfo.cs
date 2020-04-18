@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Mvc5Existing")]
-[assembly: AssemblyCopyright("Copyright (C)  2019")]
+[assembly: AssemblyCopyright("Copyright (C)  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 下列 GUID 為專案公開 (Expose) 至 COM 時所要使用的 typelib ID
-[assembly: Guid("7f177c71-cc1c-4d9f-8409-7b7c9f97543a")]
+[assembly: Guid("6840d9c0-dda2-4990-a975-c125e5738c36")]
 
 // 組件的版本資訊是由下列四項值構成:
 //
