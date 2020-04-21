@@ -115,3 +115,5 @@ C:\gitData\JenkinsTest\Mvc5UnitTesting\obj\Debug\Mvc5UnitTesting.csproj.CoreComp
 C:\gitData\JenkinsTest\Mvc5UnitTesting\obj\Debug\Mvc5UnitTesting.csproj.CopyComplete
 C:\gitData\JenkinsTest\Mvc5UnitTesting\obj\Debug\Mvc5UnitTesting.dll
 C:\gitData\JenkinsTest\Mvc5UnitTesting\obj\Debug\Mvc5UnitTesting.pdb
+C:\gitData\JenkinsTest\Mvc5UnitTesting\bin\Debug\WebDriver.dll
+C:\gitData\JenkinsTest\Mvc5UnitTesting\bin\Debug\WebDriver.xml
